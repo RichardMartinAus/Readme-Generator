@@ -13,11 +13,11 @@ I have developed a simple node.js application that takes user inputs via Inquier
 
 ## Installation
 
-To install, copy the index.js, package.json and utils/ directory to a folder. Run <npm install> to install all dependencies and the package is ready for use.
+To install, copy the index.js, package.json and utils/ directory to a folder. Run 'npm install' to install all dependencies and the package is ready for use.
 
 ## Usage
 
-To use the application, run <node index.js> in the root folder and follow the propts. A README file will be written to the root directory.
+To use the application, run 'node index.js' in the root folder and follow the propts. A README file will be written to the root directory.
 
 See screenshot below to see the applicaiton running in terminal:
 ![Screenshot of app in terminal](./assets/screenshot01.png)
