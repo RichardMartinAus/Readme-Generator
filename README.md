@@ -26,7 +26,7 @@ See screenshot of a sample README document below:
 ![Screenshot of app in terminal](./assets/screenshot02.png)
 
 Video demo of the app:
-![Walkthrough video demo](https://drive.google.com/file/d/16_Q9SvD0rptwkA10p2qM1J4Ys8u0HAUE/view)
+https://drive.google.com/file/d/16_Q9SvD0rptwkA10p2qM1J4Ys8u0HAUE/view
 
 ## Contributing
 
