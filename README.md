@@ -1,7 +1,5 @@
 # Node.js README Generator
 
-![Licence badge](https://img.shields.io/badge/license-MIT-green)
-
 ## Description
 
 I have developed a simple node.js application that takes user inputs via Inquierer and generates a professional README file with a working table of contents as well as useage, installation and other sections.
@@ -10,9 +8,7 @@ I have developed a simple node.js application that takes user inputs via Inquier
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -21,21 +17,17 @@ To install, copy the index.js, package.json and utils/ directory to a folder. Ru
 
 ## Usage
 
-To use the application, run <node index.js> in the root folder and follow the propts.
+To use the application, run <node index.js> in the root folder and follow the propts. A README file will be written to the root directory.
 
-## License
+See screenshot below to see the applicaiton running in terminal:
+![Screenshot of app in terminal](./assets.screenshot01.png)
 
-MIT License  <br>  Copyright (c) [year] [fullname] <br>  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rightsto use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: <br>  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  <br>  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. <br>  For more information click the link below
-
-https://choosealicense.com/licenses/mit/
+See screenshot of a sample README document below:
+![Screenshot of app in terminal](./assets.screenshot02.png)
 
 ## Contributing
 
 To contribut to this project, my contact details can be found at the bottom of the page.
-
-## Tests
-
-Test using Jest.
 
 ## Questions
 
