@@ -25,6 +25,9 @@ See screenshot below to see the applicaiton running in terminal:
 See screenshot of a sample README document below:
 ![Screenshot of app in terminal](./assets/screenshot02.png)
 
+Video demo of the app:
+![Walkthrough video demo](https://drive.google.com/file/d/16_Q9SvD0rptwkA10p2qM1J4Ys8u0HAUE/view)
+
 ## Contributing
 
 To contribut to this project, my contact details can be found at the bottom of the page.
