@@ -20,10 +20,10 @@ To install, copy the index.js, package.json and utils/ directory to a folder. Ru
 To use the application, run <node index.js> in the root folder and follow the propts. A README file will be written to the root directory.
 
 See screenshot below to see the applicaiton running in terminal:
-![Screenshot of app in terminal](./assets.screenshot01.png)
+![Screenshot of app in terminal](./assets/screenshot01.png)
 
 See screenshot of a sample README document below:
-![Screenshot of app in terminal](./assets.screenshot02.png)
+![Screenshot of app in terminal](./assets/screenshot02.png)
 
 ## Contributing
 
